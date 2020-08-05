@@ -1,0 +1,80 @@
+h1
+{
+
+color:brown;
+    font-size: 33px;
+    font-style: italic;
+    margin-left: 35%;
+    border: 30cm;
+    border-width: thick;
+  font-variant: small-caps;
+}
+
+body{
+background-image: repeating-linear-gradient(chocolate,white,grey,black);
+
+}
+
+#button
+{
+    background: (rgb(202, 161, 131));
+
+    border-radius: 50cm;
+    color: black;
+    font-weight: bolder;
+
+
+}
+.time
+{
+   margin-left: 4m; 
+   width :12cm; 
+   border-bottom: coral;
+   
+   border-radius: 7cm;
+   background-color:(rgb(202, 161, 131));
+
+    
+}
+.comment
+{
+    margin-bottom: 5px;
+    margin-left: 5cm;
+    margin-top: 1cm;
+    color:black;
+    font-style: oblique;
+font-kerning: inherit;   
+}
+.hhh
+{
+    position: absolute;
+    background-color: orange-medium;
+     transform:rotate(10deg);
+     padding: 5px 10px;
+     top: 15px;
+     left: auto;
+     width: 130px;
+     text-transform: uppercase;
+     letter-spacing: 1px;
+     font-weight: 600;
+     text-align: center;
+
+}
+#us
+{
+    margin-left: 20cm;
+    font-style: oblique;
+    border-radius: 150cm;
+    position:absolute;
+    width: 130px;
+}
+.pictures
+{
+    font-style: bold;
+    color:black;
+    margin-left: 16cm;
+    margin-bottom: 3cm;
+    margin-top: 3cm;
+   
+
+}
