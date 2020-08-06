@@ -1,49 +1,81 @@
 h1
 {
 
-color:brown;
-    font-size: 33px;
-    font-style: italic;
-    margin-left: 35%;
-    border: 30cm;
-    border-width: thick;
   font-variant: small-caps;
+  margin-left:8cm;
+  color:green;
 }
 
 body{
-background-image: repeating-linear-gradient(chocolate,white,grey,black);
+ background-image: repeating-radial-gradient(white,gray,rgb(114, 151, 114),grey);
+ 
+ padding: 3%;
 
 }
 
-#button
-{
-    background: (rgb(202, 161, 131));
-
-    border-radius: 50cm;
-    color: black;
-    font-weight: bolder;
-
-
+#bu{
+    color:black;
+    font-style: initial;
+    font-size:60%;
+    background-color:rgb(240, 73, 6);
 }
-.time
+.pictures
 {
-   margin-left: 4m; 
-   width :12cm; 
-   border-bottom: coral;
-   
-   border-radius: 7cm;
-   background-color:(rgb(202, 161, 131));
+margin-top: 5%;
+}
+.button
+{
+    background-color:yellowgreen;
+    border-radius: 2%;
+padding:1%;
+font-size:20px;
+margin:4px;
+}
 
+h2
+{
+    font-size: 14px;
+}
+h3
+{
+    font-size:14px;
+}
+h4{
+    font-size: 14px;
+}
+h5{
+    font-size: 14px;
+}
+
+p
+{
+
+    color: blanchedalmond;
+  font-size: 12px;
+    
     
 }
+.btn{
+margin-top: 5%;
+}
+.btn1
+{
+    margin-left: 4cm;
+    margin-top: -1.5cm;
+    word-spacing: 0em;
+}
+.btn2
+{
+    margin-left: 7.5cm;
+    margin-top: -2.3cm;
+}
+
 .comment
 {
-    margin-bottom: 5px;
-    margin-left: 5cm;
+    margin-bottom: 50px;
     margin-top: 1cm;
     color:black;
-    font-style: oblique;
-font-kerning: inherit;   
+    font-style: oblique;   
 }
 .hhh
 {
@@ -54,6 +86,7 @@ font-kerning: inherit;
      top: 15px;
      left: auto;
      width: 130px;
+     text-align: center;
      text-transform: uppercase;
      letter-spacing: 1px;
      font-weight: 600;
@@ -67,14 +100,27 @@ font-kerning: inherit;
     border-radius: 150cm;
     position:absolute;
     width: 130px;
+    color: yellow;
 }
-.pictures
+.buttons
 {
-    font-style: bold;
-    color:black;
-    margin-left: 16cm;
-    margin-bottom: 3cm;
-    margin-top: 3cm;
-   
+padding-left: 1%;
+font-size:20px;
+margin-left: 40%;
+margin-top: 0px;
+}
 
+#bb
+{
+    display: block;
+    width: 90%;
+    background-color: rgba(19, 46, 15, 0);
+    padding: 14px;
+    border-radius: 25%;
+    font-style: italic;
+    font-size: 1cm;
+   font-variant: small-caps;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    cursor: pointer;
+    text-align: center;
 }
