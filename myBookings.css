@@ -18,8 +18,8 @@ font-weight: bolder;
 #form
 {
     color: black;
-  background-color: transparent;
-    margin:1cm 4cm 1cm 0cm;
+  background-image: radial-gradient(white,darkgray);
+    margin:1cm 16cm 1cm 0cm;
    
 }
 
@@ -151,4 +151,8 @@ h1
 {
     font-size: large;
     font-weight: bolder;
+}
+#gal
+{
+    background-color: white;
 }
