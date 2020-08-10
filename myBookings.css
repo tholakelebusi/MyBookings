@@ -1,126 +1,154 @@
-h1
-{
-
-  font-variant: small-caps;
-  margin-left:8cm;
-  color:green;
-}
-
 body{
- background-image: repeating-radial-gradient(white,gray,rgb(114, 151, 114),grey);
- 
- padding: 3%;
-
+    background-image: url("Guest-House-Success-Ultimate-Guest-Checklist.jpg");
+    border:black;
+    border-style: double;
+    border-radius: 2%;
 }
-
-#bu{
-    color:black;
-    font-style: initial;
-    font-size:60%;
-    background-color:rgb(240, 73, 6);
+h1{
+    font-size: 100%;
 }
-.pictures
+.Rbuttons
 {
-margin-top: 5%;
+
+box-shadow: 0 6px 6px rgba(0,0,0,0.6);
+background-color: transparent;
+color:black;
+font-weight: bolder;
+}
+#form
+{
+    color: black;
+  background-color: transparent;
+    margin:1cm 4cm 1cm 0cm;
+   
+}
+
+.bx
+{
+    scroll-margin-block-start: 2cm;
+    border-radius: 1cm;
+    border: black;
+    color: gray;
 }
 .button
 {
-    background-color:yellowgreen;
-    border-radius: 2%;
-padding:1%;
-font-size:20px;
-margin:4px;
-}
-
-h2
-{
-    font-size: 14px;
-}
-h3
-{
-    font-size:14px;
-}
-h4{
-    font-size: 14px;
-}
-h5{
-    font-size: 14px;
-}
-
-p
-{
-
-    color: blanchedalmond;
-  font-size: 12px;
-    
-    
-}
-.btn{
-margin-top: 5%;
-}
-.btn1
-{
+    border-radius: 2cm;
+    size:50px;
     margin-left: 4cm;
-    margin-top: -1.5cm;
-    word-spacing: 0em;
+    margin-top: 0.2cm;
 }
-.btn2
+.all
 {
-    margin-left: 7.5cm;
-    margin-top: -2.3cm;
-}
-
-.comment
-{
-    margin-bottom: 50px;
-    margin-top: 1cm;
+    box-shadow: 0 6px 6px rgba(0,0,0,0.6);
+    background-color: transparent;
     color:black;
-    font-style: oblique;   
-}
-.hhh
-{
-    position: absolute;
-    background-color: orange-medium;
-     transform:rotate(10deg);
-     padding: 5px 10px;
-     top: 15px;
-     left: auto;
-     width: 130px;
-     text-align: center;
-     text-transform: uppercase;
-     letter-spacing: 1px;
-     font-weight: 600;
-     text-align: center;
+    padding: 5px;
+    font-weight: bolder;
 
 }
-#us
+#id
 {
+   background-color:transparent;
+   padding: 0.2cm;
+ 
+}
+#id1
+{
+    margin-left: 15cm;
+    margin-top: 0cm;
+    margin-bottom: 15cm;
+}
+#contact
+{
+    background-image: radial-gradient(white,grey);
+}
+
+#room1
+{
+    margin:0cm 1cm 0cm 1cm;
+    padding: 2%;
+background-color: cornsilk;
+}
+#room2
+{
+    margin:0cm 1cm 0cm 1cm;
+    padding: 2%;
+background-color: grey;
+}
+#room3
+{
+    border-radius: 2%;
+    margin:0cm 1cm 0cm 1cm;
+    padding: 2%;
+background-color:cornsilk;
+}
+#room4
+{
+    margin:0cm 1cm 0cm 1cm;
+    padding: 2%;
+    background-color: darkgrey;
+}
+
+.n{
+    padding: 2px;
+    border-radius: 2cm;
+    margin-left: 5cm;
+}
+
+.n1{
+    padding: 0.5cm;
+}
+.n3
+{
+    margin-left: 1cm;
+    margin-top: 1cm;
+}
+
+#Reserved
+{
+    color:white;
+    font-weight: bold;
+    background-color: black;
+}
+
+#welcome
+{
+    background-color: transparent;
+    margin-left: 4cm;
+    margin-right: 15cm;
+    margin-top: 1cm;
+    padding:1cm;
+    border:double;
+    border-radius: 1cm;
+
+}
+#pic1
+{
+ margin-top: 0;
     margin-left: 20cm;
-    font-style: oblique;
-    border-radius: 150cm;
-    position:absolute;
-    width: 130px;
-    color: yellow;
+transform: rotate(20deg);
 }
-.buttons
+#pic2
 {
-padding-left: 1%;
-font-size:20px;
-margin-left: 40%;
-margin-top: 0px;
+margin-left: 5cm;
+margin-bottom: 1cm;
 }
-
-#bb
+.quick
 {
-    display: block;
-    width: 90%;
-    background-color: rgba(19, 46, 15, 0);
-    padding: 14px;
-    border-radius: 25%;
-    font-style: italic;
-    font-size: 1cm;
-   font-variant: small-caps;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    cursor: pointer;
-    text-align: center;
+    background-image: radial-gradient(white,);
+    color: black;
+    margin:1cm 18cm 0cm 4cm;
+    padding: 1cm;
+    border-radius: 2cm;
+}
+h4
+{
+font-size: xx-large;
+font-variant-caps: titling-caps;
+background-color: transparent;
+}
+h1
+{
+    font-size: large;
+    font-weight: bolder;
 }
